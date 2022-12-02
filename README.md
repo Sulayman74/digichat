@@ -1,4 +1,9 @@
-# digichat
+## digichat
+
+
+Voici la backend avec lequelle nous avons pu joindre le front angular
+
+Fait par Adrien Gouacide
 
 ## TODO
 
